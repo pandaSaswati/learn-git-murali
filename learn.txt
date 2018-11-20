@@ -1,4 +1,3 @@
 Hello,
-Learn git ,Be lit
-
+Git lits your life.
 Thank you
